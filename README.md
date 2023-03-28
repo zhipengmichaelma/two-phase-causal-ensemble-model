@@ -1,1 +1,1 @@
-# two-stage-causal-ensemble-model
+# A Two-phase Multi-split Causal Ensemble Model for Time Series
